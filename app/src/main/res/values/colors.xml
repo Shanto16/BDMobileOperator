@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2dcf90</color>
+    <color name="colorPrimaryDark">#22a9d1</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="font_normal">#696d87</color>
+    <color name="font_banner">#2dcd94</color>
+    <color name="border_color">#28bdad</color>
+    <color name="gradient_top">#2dcf90</color>
+    <color name="gradient_down">#22a9d1</color>
+    <color name="white">#ffffff</color>
+</resources>
